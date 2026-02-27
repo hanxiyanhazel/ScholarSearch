@@ -1,0 +1,5 @@
+{
+  "name": "Literature Chat",
+  "description": "A conversational academic literature retriever with real-time filtering and PDF batch downloading.",
+  "requestFramePermissions": []
+}
